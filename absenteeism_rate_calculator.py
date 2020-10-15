@@ -2,7 +2,7 @@
 from datetime import date
                                 
 # Greeting
-print("Willkommen zum Fehlzeitenrechner\n")
+print("Welcome to the Absence Calculator\n")
 
 # Input
 input1 = input("Please indicate your current absences: ")
